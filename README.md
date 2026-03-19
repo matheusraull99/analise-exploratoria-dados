@@ -1,7 +1,3 @@
-Excelente! Como o seu repositório já está criado e o arquivo video6.3.ipynb enviado, adicionar um bom README.md ajudará a tornar seu portfólio de dados muito mais atrativo.
-
-Aqui está uma sugestão de conteúdo para você copiar e colar:
-
 Análise Exploratória de Dados: Notas de Filmes
 Este projeto consiste em uma análise exploratória de dados utilizando bibliotecas de manipulação e visualização da linguagem Python. O foco principal é entender a distribuição de notas de filmes e o faturamento de grandes produções cinematográficas.
 
